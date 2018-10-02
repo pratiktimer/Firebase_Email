@@ -1,7 +1,8 @@
 # Firebase_Email
 Email Authentication with Firebase after the email is verified 
 Make sure to create firebase project enable email authentcication download google-services.json in app folder.
-
+## SCREENSHOTS
+<img height="480px" src="images/login.png">  <img height="480px" src="images/signup.png">  <img height="480px" src="images/forgot_password.png">
 
 ### LICENSE & COPYRIGHT
 Copyright 2018 Pratik Banawalkar
